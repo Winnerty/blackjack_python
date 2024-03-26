@@ -1,8 +1,5 @@
-This is Timofey Karpeev's Python course project (winter 2023/2024).
-
-This is the Online Blackjack game 1 vs 1 (player vs dealer).
-
-Here are the steps player should take:
+# Blackjack in Python
+## Here are the steps player should take:
 
 1) You launch the python code
 2) You enter you bet and press "New game"
@@ -14,4 +11,4 @@ dealer's hand, it can be only done by the user (you). No worries, it knows when 
 you have to press "Dealer" again and so on, until the game is finished.
 7) If you are willing to play another game, change your bet or stay with the same one and press "New game" and so on (steps 3 - 7).
 
-P.S. Do not try to fool the system by entering wrong bets or betting too much, I am watching you.
+#### P.S. Do not try to fool the system by entering wrong bets or betting too much.
