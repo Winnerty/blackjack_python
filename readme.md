@@ -1,7 +1,7 @@
 # Blackjack on Python
 ## Here are the steps player should take:
 
-1) You launch the python code
+1) You launch the main.py file  
 2) You enter you bet and press "New game"
 3) Both you and dealer get their hands
 4) You chose to "Stand on it" or to get "Additional card" and press "Confirm"
