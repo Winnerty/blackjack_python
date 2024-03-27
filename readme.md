@@ -1,4 +1,4 @@
-# Blackjack in Python
+# Blackjack on Python
 ## Here are the steps player should take:
 
 1) You launch the python code
